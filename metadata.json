@@ -1,0 +1,5 @@
+{
+  "name": "캐릭터 정리함",
+  "description": "A clean, private space to organize your original characters. Features specific character profiles, galleries, and custom descriptions using local storage.",
+  "requestFramePermissions": []
+}
